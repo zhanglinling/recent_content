@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the recent content feature.
+ */
+
+include_once('recent_content.features.inc');
